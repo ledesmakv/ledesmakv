@@ -1,6 +1,10 @@
-<h1 align="center">
-🌸 Welcome there! 🌸
-</h1>
+<p align="center">
+  <img src="https://i.ibb.co/1z9M3jS/Welcome.png" alt="Hi there" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600" />
+</p>
 
 <br />
 <p align="center">
@@ -8,7 +12,7 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 </p>
 <br/>
 
-## ✍ A few things about me:
+### ✍ About me:
 <br />
 🏡 Born and living in Buenos Aires, Argentina
 <br />
@@ -24,7 +28,7 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 <br />
 <br />
 
-## 📚 Software stack I learned or have experience with:
+### 📚 Software skills:
 <br />
 
 
@@ -34,7 +38,7 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 
 <br />
 
-## 📊 Some stats:
+### 📊 Language stats:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
