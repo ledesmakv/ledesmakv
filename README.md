@@ -14,7 +14,7 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 <br />
 🌎 Been studying English since childhood, currently with a C1 level
 <br />
-💻 I started learning programming about three years ago
+💻 I started learning Programming about three years ago
 <br />
 🐛 I recently started learning about Testing: I have some experience in both Manual and Automation
 <br />
