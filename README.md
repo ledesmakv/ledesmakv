@@ -6,11 +6,14 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600" />
 </p>
 
+<br/>
 <br />
 <p align="center">
 Throughout this challenging and amazing journey I'll upload every little step I take while I keep learning and improving.
 </p>
 <br/>
+<br/>
+
 
 <p>
   <img src="https://i.ibb.co/dQs3xfJ/github-title-1.png" alt="about me" />
