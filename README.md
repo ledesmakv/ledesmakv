@@ -9,17 +9,13 @@
 <br/>
 <br />
 <p align="center">
-Throughout this challenging and amazing journey I'll upload every little step I take while I keep learning and improving.
+  Throughout this challenging and amazing journey I'll upload every little step I take while I keep learning and improving.
 </p>
 <br/>
 <br/>
 
+<img src="https://i.ibb.co/dQs3xfJ/github-title-1.png" alt="about me" />
 
-<p>
-  <img src="https://i.ibb.co/dQs3xfJ/github-title-1.png" alt="about me" />
-</p>
-
-<br />
 🏡 Born and living in Buenos Aires, Argentina
 <br />
 🌎 Been studying English since childhood, currently with a C1 level
@@ -33,22 +29,16 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 📨 Want to know more? You can contact me via <a href=mailto:"ledesmakv@gmail.com" target=_blank">email</a> or <a href="https://linkedin.com/in/ledesmakv" target="_blank">LinkedIn</a>!
 <br />
 <br />
-
-<p>
-  <img src="https://i.ibb.co/TbCpmcf/github-title-2.png" alt="software skills" />
-</p>
 <br />
 
+<img src="https://i.ibb.co/TbCpmcf/github-title-2.png" alt="software skills" />
 
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40">]() |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40">]()
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-
 <br />
+<br/>
 
-<p>
   <img src="https://i.ibb.co/rcSR0Gd/github-title-3.png" alt="language stats" />
-</p>
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
