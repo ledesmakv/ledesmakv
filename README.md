@@ -26,8 +26,8 @@
 <br />
 🤓 I'm into gaming, stargazing and Japanese culture
 <br />
-📨 Want to know more? You can contact me via <a href=mailto:"ledesmakv@gmail.com" target=_blank">email</a> or <a href="https://linkedin.com/in/ledesmakv" target="_blank">LinkedIn</a>!
-<br />
+📨 Want to know more? You can contact me via <a href="mailto:ledesmakv@gmail.com" target="_blank">email</a> or <a href="https://linkedin.com/in/ledesmakv" target="_blank">LinkedIn</a>!
+
 <br />
 <br />
 
