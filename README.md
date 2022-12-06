@@ -12,7 +12,10 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 </p>
 <br/>
 
-### ✍ About me:
+<p>
+  <img src="https://i.ibb.co/dQs3xfJ/github-title-1.png" alt="about me" />
+</p>
+
 <br />
 🏡 Born and living in Buenos Aires, Argentina
 <br />
@@ -28,7 +31,9 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 <br />
 <br />
 
-### 📚 Software skills:
+<p>
+  <img src="https://i.ibb.co/TbCpmcf/github-title-2.png" alt="software skills" />
+</p>
 <br />
 
 
@@ -38,7 +43,9 @@ Throughout this challenging and amazing journey I'll upload every little step I 
 
 <br />
 
-### 📊 Language stats:
+<p>
+  <img src="https://i.ibb.co/rcSR0Gd/github-title-3.png" alt="language stats" />
+</p>
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
