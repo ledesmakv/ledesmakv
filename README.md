@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-In this challenging and amazing journey I'll upload every little step I take while I keep learning and improving.
+Throughout this challenging and amazing journey I'll upload every little step I take while I keep learning and improving.
 </p>
 <br/>
 
@@ -45,7 +45,7 @@ In this challenging and amazing journey I'll upload every little step I take whi
 
 <br />
 
-## Some stats:
+## 📊 Some stats:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
